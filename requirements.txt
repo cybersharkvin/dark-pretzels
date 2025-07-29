@@ -1,0 +1,8 @@
+llama-cpp-python
+fastapi
+uvicorn
+pydantic
+docstring_parser
+pytest
+pytest-asyncio
+psutil
